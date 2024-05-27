@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@2000",
+      "status": "1"
+    },
+    {
+      "id": "10",
+      "name": "athira sekharan",
+      "email": "sekharan@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "name": "leya",
+      "email": "ana@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "2",
+      "name": "anitta",
+      "email": "anju@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "name": "athira sekharan",
+      "email": "admin@gmail.com",
+      "status": "0"
+    }
+  ]
+}
